@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-an5ngs.salamduit.cfd/sitemap.xml
